@@ -187,4 +187,6 @@ env/
 
 ---
 
-Готово! Вопросы/идеи — в issues. ✨
+Готово! 
+
+** Сделано [SergeyTatarintcev](https://github.com/SergeyTatarintcev) 
