@@ -1,0 +1,19 @@
+# Python/Django
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+db.sqlite3
+*.sqlite3
+
+# Статика/медиа, собранные артефакты
+staticfiles/
+media/
+
+# Виртуалки
+.venv/
+venv/
+env/
+
+# VS Code (по желанию)
+.vscode/
